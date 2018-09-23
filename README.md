@@ -47,3 +47,7 @@ Android 开发常用 **jar** 包收集整理，虽然说现在基本都是 Gradl
 - commons-lang3-3.4.jar
 - sc-light-jdk15on-1.47.0.2.jar
 - pinyin4j-2.5.0
+
+## 用法
+
+[LayoutCreator1.4.jar](markdown/LayoutCreator1.4.md)
