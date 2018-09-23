@@ -51,3 +51,13 @@ Android 开发常用 **jar** 包收集整理，虽然说现在基本都是 Gradl
 ## 用法
 
 [LayoutCreator1.4.jar](markdown/LayoutCreator1.4.md)
+
+[Picasso](markdown/Picasso.md)
+
+[xUtils3](markdown/xUtils3.md)
+
+[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
+
+[Image-Loader-Usage](markdown/Image-Loader-Usage.md)
+
+[okhttputils](markdown/okhttputils.md)
